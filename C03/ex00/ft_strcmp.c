@@ -5,17 +5,27 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: pmartins <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/10/20 11:40:28 by pmartins          #+#    #+#             */
-/*   Updated: 2019/10/20 12:04:43 by pmartins         ###   ########.fr       */
+/*   Created: 2019/10/16 18:55:34 by pmartins          #+#    #+#             */
+/*   Updated: 2019/10/17 11:05:30 by pmartins         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int		ft_strcmp(char *s1, char *s2)
-{
+int	 ft_strcmp(char *s1, char *s2)
+{	
 	int i;
 
 	i = 0;
-	while (s1[i] == s2[i] && s1[i] != '\0' && s2[i] != '\0')
+	while (s1[i] != '\0' && s2[i] != '\0')
+	{
+		if ( s1[i] != s2[i])
+		{
+			return (s1[i] - s2[i]); 
+		}
 		i++;
-	return (s1[i] - s2[i]);
+	}	
+	if ((s1[i] == '\0' && s2[i] != '\0') || (s1[i] != '\0' && s2[i] == '\0'))
+	{
+		return (s1[i] - s2[i]);
+	}
+	return (0);
 }
