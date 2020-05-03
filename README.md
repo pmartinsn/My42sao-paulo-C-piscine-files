@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-	<style>
+<!--	<style>
 	.fail {
 		color: rgb(255, 0, 0);
 	}
 	.pass {
 		color: rgb(0, 255, 0);
 	}
- </style>
+ </style>  Github md does not suport color text -->
 </head>
 <head> 
 	<body>
@@ -82,37 +82,37 @@
 				<tr>
                     <td>C 07</td>
                     <td>...</td>
-                    <td>not donne</td>
+                    <td>Incomplete</td>
                 </tr>
 				<tr>
                     <td>C 08</td>
                     <td>...</td>
-                    <td>not donne</td>
+                    <td>Incomplete<</td>
                 </tr>
 				<tr>
                     <td>C 09</td>
                     <td>...</td>
-                    <td>not donne</td>
+                    <td>Incomplete<</td>
                 </tr>
 				<tr>
                     <td>C 10</td>
                     <td>...</td>
-                    <td>not donne</td>
+                    <td>Incomplete<</td>
                 </tr>
 				<tr>
                     <td>C 11</td>
                     <td>...</td>
-                    <td>not donne</td>
+                    <td>Incomplete<</td>
                 </tr>
 				<tr>
                     <td>C 12</td>
                     <td>...</td>
-                    <td>not donne</td>
+                    <td>Incomplete<</td>
                 </tr>
 				<tr>
                     <td>C 13</td>
                     <td>...</td>
-                    <td>not donne</td>
+                    <td>Incomplete<</td>
                 </tr>
 				<tr>
                     <td>Rush 00</td>
