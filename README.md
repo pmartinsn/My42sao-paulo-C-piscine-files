@@ -2,6 +2,16 @@
 <html>  
 <head> </head>
 <body>
+<style>
+	.fail
+	{
+		color: rgb(255, 0, 0);
+	}
+	.pass
+	{
+		color: rgb(0, 255, 0);
+	}
+ </style>
 
 <h1> My42sao-paulo-C-piscine-files </h1>
  Hello everyone!!! These are the files that I have generated during my 42 piscine in the city of São Paulo/Brazil, october, 2019.
@@ -10,32 +20,141 @@
  Enjoy!!!
 
 <h2> My results:</h2>
- Project     | What is about?                              | Status
-:-------:   | :--------------:                           | :------:
-I accept    | Git and Vogsphere essentials                | 100%
-Shell 00    | Basic Shell Script commands                 | 100%
-Shell 01    | Intermediate Shell Script commands          | 100%
-C 00        | Unistd Lib, mainly write function usage     | 50%
-C 01        | Decision structure intro (if, else, while)  | 100%
-C 02        | ...             |  65%
-C 03        | ...             |  50%
-C 04        | ...             |  70%
-C 05        | ...             |  50%
-C 06        | ...             |  70%
-C 07        | ...             |  not done
-C 08        | ...             |  not done
-C 09        | ...             |  not done
-C 10        | ...             |  not done
-C 11        | ...             |  not done
-C 12        | ...             |  not done
-C 13        | ...             |  not done
-Rush 00     | ...             |<p style="color:rgba(255,0,0,0.5);"> 0%</p>
-Rush 01     | ...             |<p style="color:rgba(255,0,0,0.5);"> 0%</p>
-Rush 02     | ...             |<p style="color:rgba(255,0,0,0.5);"> 0%</p>
-Exam 00     | ...             |<p style="color:rgba(255,0,0,0.5);"> 0%</p>
-Exam 01     | ...             |<p style="color:rgba(255,0,0,0.5);"> 0%</p>
-Exam 02     | ...             | 14%
-Final Exam  | ...             | 24%
+
+ <table>
+        <thead>
+                <tr>
+                    <th>Project</th>
+                    <th>What is about? </th>
+                    <th>Status</th>
+					</tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>I accept</td>
+                    <td>Git and Vogsphere essentials</td>
+                    <td class="pass">100%</td>
+                </tr>
+                <tr>
+                    <td>Shell 00</td>
+                    <td>Basic Shell Script commands</td>
+                    <td class="pass">100%</td>
+                </tr>
+                <tr>
+                    <td>Shell 01</td>
+                    <td>Intermediate Shell Script commands</td>
+                    <td class="pass">100%</td>
+                </tr>
+				 <tr>
+                    <td>C 00</td>
+                    <td>Unistd Lib, mainly write function usage</td>
+                    <td class="pass">50%</td>
+                </tr>
+				 <tr>
+                    <td> C 01</td>
+                    <td>Decision structure intro (if, else, while)</td>
+                    <td class="pass">100%</td>
+                </tr>
+				 <tr>
+                    <td>C 02</td>  
+                    <td>...</td>
+                    <td class="pass">65%</td>
+                </tr>
+				 <tr>
+                    <td>C 03</td>
+                    <td>..</td>
+                    <td class="pass">50%</td>
+                </tr>
+				<tr>
+                    <td>C 04</td>
+                    <td>...</td>
+                    <td class="pass">70%</td>
+                </tr> 
+				<tr>
+                    <td>C 05/td>
+                    <td>...</td>
+                    <td class="pass">50%</td>
+                </tr>
+				<tr>
+                    <td>C 06</td>
+                    <td>...</td>
+                    <td class="pass">70%</td>
+                </tr>
+				<tr>
+                    <td>C 07</td>
+                    <td>...</td>
+                    <td>not donne</td>
+                </tr>
+				<tr>
+                    <td>C 08</td>
+                    <td>...</td>
+                    <td>not donne</td>
+                </tr>
+				<tr>
+                    <td>C 09</td>
+                    <td>...</td>
+                    <td>not donne</td>
+                </tr>
+				<tr>
+                    <td>C 10</td>
+                    <td>...</td>
+                    <td>not donne</td>
+                </tr>
+				<tr>
+                    <td>C 11</td>
+                    <td>...</td>
+                    <td>not donne</td>
+                </tr>
+				<tr>
+                    <td>C 12</td>
+                    <td>...</td>
+                    <td>not donne</td>
+                </tr>
+				<tr>
+                    <td>c 13</td>
+                    <td>...</td>
+                    <td>not donne</td>
+                </tr>
+				<tr>
+                    <td>Rush 00</td>
+                    <td>...</td>
+                    <td class="fail">0%</td>
+                </tr>
+				<tr>
+                    <td>Rush 01</td>
+                    <td>...</td>
+                    <td class="fail">0%</td>
+                </tr>
+				<tr>
+                    <td>Rush 02</td>
+                    <td>...</td>
+                    <td class="fail">0%</td>
+                </tr>
+				<tr>
+                    <td>Exam 00</td>
+                    <td>...</td>
+                    <td class="fail">0%</td>
+                </tr>
+				<tr>
+                    <td>Exam 01</td>
+                    <td>...</td>
+                    <td class="fail">0%</td>
+                </tr>
+				<tr>
+                    <td>Exam 02</td>
+                    <td>...</td>
+                    <td class="pass">14%</td>
+                </tr>
+				<tr>
+                    <td>Final Exam</td>
+                    <td>...</td>
+                    <td class="fail">24%</td>
+                </tr>
+            </tbody>
+        </table>
+        
+    </body>
+</html>
 
 <h1> I got in!!!</h1>
 
