@@ -3,12 +3,10 @@
 <head> </head>
 <body>
 <style>
-	.fail
-	{
+	.fail {
 		color: rgb(255, 0, 0);
 	}
-	.pass
-	{
+	.pass {
 		color: rgb(0, 255, 0);
 	}
  </style>
@@ -152,9 +150,6 @@
                 </tr>
             </tbody>
         </table>
-        
-    </body>
-</html>
 
 <h1> I got in!!!</h1>
 
