@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html>  
-<head> </head>
-<body>
-<style>
+<html>
+    <head>
+	<style>
 	.fail {
 		color: rgb(255, 0, 0);
 	}
@@ -10,7 +9,9 @@
 		color: rgb(0, 255, 0);
 	}
  </style>
-
+</head>
+<head> 
+	<body>
 <h1> My42sao-paulo-C-piscine-files </h1>
  Hello everyone!!! These are the files that I have generated during my 42 piscine in the city of São Paulo/Brazil, october, 2019.
  Was the first piscine in South America.
@@ -69,7 +70,7 @@
                     <td class="pass">70%</td>
                 </tr> 
 				<tr>
-                    <td>C 05/td>
+                    <td>C 05 </td>
                     <td>...</td>
                     <td class="pass">50%</td>
                 </tr>
@@ -109,7 +110,7 @@
                     <td>not donne</td>
                 </tr>
 				<tr>
-                    <td>c 13</td>
+                    <td>C 13</td>
                     <td>...</td>
                     <td>not donne</td>
                 </tr>
@@ -151,7 +152,7 @@
             </tbody>
         </table>
 
-<h1> I got in!!!</h1>
+<h1> I got in after all!!!</h1>
 
 <h2> To know More about École 42 </h2>
 <a href ="https://www.42sp.org.br/">42 Sao Paulo - Brazil</a>
